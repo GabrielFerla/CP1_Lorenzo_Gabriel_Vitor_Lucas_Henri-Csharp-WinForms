@@ -20,3 +20,6 @@ Permitir ao cliente visualizar e alterar seu pedido antes de finalizar.
 - RM: 550695 - Gabriel Ferla,
 - RM: 97158 - Lucas Moreno Matheus,
 - RM: 98347 - Henri De Oliveira Lopes
+
+
+![image](https://github.com/user-attachments/assets/08fa15ea-44c1-46b5-9efc-32b1b2a0811e)
